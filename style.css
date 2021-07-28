@@ -20,9 +20,9 @@ body{
 }
 .btn{
     border: none;
-    background-image: linear-gradient(#419eeb, #065cac) ;
+    background-image: linear-gradient(#66b3f1, #065cac) ;
     padding: 10px 30px;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 .btn a{
     text-decoration: none;
