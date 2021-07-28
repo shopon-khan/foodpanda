@@ -1,0 +1,126 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.container{
+    display: flex;
+    padding-left: 20px;
+      padding-top: 50px;
+}
+
+.helf-width{
+    width: 50%;
+    padding: 20px;
+}
+.helf-width img{
+    width: 80%;
+}
+.heading-span{
+    color: #f74008;
+    font-size: 35px;
+}
+.btn{
+    border: none;
+    background-image: linear-gradient(#419eeb, #065cac) ;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.btn a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+
+.about-us{
+    background-image: url(images/shapes/7.png);
+    
+}
+.our-recipies{
+    padding-top: 167px;
+}
+div#about-detels {
+    padding-top: 150px;
+}
+.food-item{
+   padding-left: 50px;
+}
+.recipies-discribe {
+    width: 800px;
+    text-align: center;
+    padding-left: 190px;
+    padding-top: 150px;
+}
+.recipies-title{
+    width: 25%;
+    margin: 30px;
+    padding: 15px;
+    box-shadow: 5px 5px 30px #a2b8c2;
+    border-radius: 10px;
+}
+.recipies-title img{
+    width: 100%;
+}
+.review{
+    width: 800px;
+    text-align: center;
+    padding-left: 190px;
+    padding-top: 150px;
+}
+
+.review-clients{
+    box-shadow: 5px 5px 25px lightgray;
+    border-radius: 10px;
+    width: 30%;
+    height: 25%;
+    padding: 10px;
+    margin: 10px;
+}
+.author{
+    display: flex;
+    padding-left: 15px;
+}
+.author img{
+    width: 35px;
+    height: 35px;
+    padding: 30px;
+    padding-left: 180px;
+   
+}
+.author-name{
+    font-size: 10px;
+     padding-top: 15px;
+}
+.all-item{
+    display: flex;
+    
+}
+.subscribe{
+    padding-left: 230px;
+}
+.subscribe-box{
+   
+    box-shadow: 5px 5px 30px lightgray;
+    width: 100%;
+}
+
+.footer{
+    background-color: rgb(26, 29, 56);
+    height: 250px;
+    padding-top: 80px;
+}
+.foodpand-span{
+    color: orangered;
+}
+.footer h1{
+    color: white;
+    text-align: center
+    ;
+}
+.footer p{
+    color: white;
+    text-align: center;
+    font-size: 13px;
+}
+.footer-main{
+    padding-top: 150px;
+}
