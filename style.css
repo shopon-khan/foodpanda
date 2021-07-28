@@ -1,55 +1,65 @@
 body{
     font-family: 'Oswald', sans-serif;
 }
+/* container style */
 .container{
     display: flex;
     padding-left: 20px;
       padding-top: 50px;
 }
-
+/* helf width style */
 .helf-width{
     width: 50%;
     padding: 20px;
 }
+/* helf width img style */
 .helf-width img{
     width: 80%;
-}
+} 
+/* span tag style */
 .heading-span{
     color: #f74008;
     font-size: 35px;
 }
+/* button style */
 .btn{
     border: none;
     background-image: linear-gradient(#66b3f1, #065cac) ;
     padding: 10px 30px;
     border-radius: 20px;
 }
+/* button in anchor tag style */
 .btn a{
     text-decoration: none;
     font-size: 25px;
     font-weight: 700;
     color: white;
 }
-
+/* about us section style */
 .about-us{
     background-image: url(images/shapes/7.png);
     
 }
+/* our recipies section style */
 .our-recipies{
     padding-top: 167px;
 }
+/* about details section style  */
 div#about-detels {
     padding-top: 150px;
 }
+/* food Item section style  */
 .food-item{
    padding-left: 50px;
 }
+/* recipies discribe style  */
 .recipies-discribe {
     width: 800px;
     text-align: center;
     padding-left: 190px;
     padding-top: 150px;
 }
+/* recipies title style  */
 .recipies-title{
     width: 25%;
     margin: 30px;
@@ -57,16 +67,18 @@ div#about-detels {
     box-shadow: 5px 5px 30px #a2b8c2;
     border-radius: 10px;
 }
+/* .recipies-title img style  */
 .recipies-title img{
     width: 100%;
 }
+/*  clients review section  style  */
 .review{
     width: 800px;
     text-align: center;
     padding-left: 190px;
     padding-top: 150px;
 }
-
+ /* review detailes section style  */
 .review-clients{
     box-shadow: 5px 5px 25px lightgray;
     border-radius: 10px;
@@ -75,10 +87,12 @@ div#about-detels {
     padding: 10px;
     margin: 10px;
 }
+ /* review detailes section author style  */
 .author{
     display: flex;
     padding-left: 15px;
 }
+/* review detailes section author img  style */
 .author img{
     width: 35px;
     height: 35px;
@@ -86,23 +100,27 @@ div#about-detels {
     padding-left: 180px;
    
 }
+/* review detailes section author name  style */
 .author-name{
     font-size: 10px;
      padding-top: 15px;
 }
+/* food item section  style  */
 .all-item{
     display: flex;
     
 }
+/* food item section subscribe style  */
 .subscribe{
     padding-left: 230px;
 }
+/* food item section subscribe box style  */
 .subscribe-box{
    
     box-shadow: 5px 5px 30px lightgray;
     width: 100%;
 }
-
+ /* footer section style */
 .footer{
     background-color: rgb(26, 29, 56);
     height: 250px;
